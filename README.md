@@ -1,2 +1,2 @@
 # CSE527
-Computer Vision
+Computer Vision homeworks
